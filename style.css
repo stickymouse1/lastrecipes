@@ -1,0 +1,24 @@
+.Maintitle {
+    text-align: center;
+    color: whitesmoke;
+
+}
+body {
+    background-image:url(./imagesindex/backgroundimg.jpg);
+    background-size: cover;
+}
+div.menu { 
+   text-align: center;
+
+}
+ul.list {
+    display: inline-block;
+    text-align: center;
+    border: solid;
+    border-left-width: 30px;
+    background-color: darkgoldenrod;
+    border-bottom-width: 20px;
+    border-top-width: 40px;
+    border-color: maroon;
+    list-style: none;
+}
